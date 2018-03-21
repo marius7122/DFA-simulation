@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521637450 source:c:\work\c++\dfa simulation\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+	<algorithm>
+
